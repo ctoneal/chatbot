@@ -1,0 +1,10 @@
+host=irc.freenode.net
+port=6666
+pw=botpw
+nick=m-test
+ident=m-test
+channel=#waffobot
+markov=1
+chainlength=50
+chattiness=0.2
+logging=0
